@@ -11,6 +11,7 @@ Nutrient 2 is varied across the columns (10-12 concentrations)
 
 - Nutrient 2 is the added 10uL per 200uL (20X dilution) to each well across the respective columns.<br>
 - Nutrient 1 is added 190uL to each well across the respective rows. <br>
+- Cells are immediately inoculated and measurements begin.
 
 Note: A multichannel pipette is handy, as is a liquid handling robot if many replicates are desired.<br>
 Working from small to large concentrations, pipette tips can be re-used when adding Nutrient 2 but not when adding Nutrient 1, since tips might touch and contaminate for the already added Nutrient 2.
